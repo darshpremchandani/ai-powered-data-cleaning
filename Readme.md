@@ -91,7 +91,3 @@ Click "Clean Data".
 Review the Results: The application will display the original data and the AI-cleaned data side-by-side for comparison.
 (Optional: Consider adding a GIF here showing the application in action!)
 
-🙌 How to Contribute
- Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
- Please check out our CONTRIBUTING.md file for details on our code of conduct and the process for submitting pull requests to us.
